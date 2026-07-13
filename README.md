@@ -122,9 +122,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Thaton3gu7/Thaton3gu7/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-> 💡 **To enable the snake:** Create a repo named `Thaton3gu7` (same as your username), add [this GitHub Action](https://github.com/Platane/snk), and it'll auto-generate the animation from your contribution graph.
-
 ---
 
 ### 📈 Contribution Graph
