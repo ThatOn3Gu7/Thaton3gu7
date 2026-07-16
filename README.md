@@ -23,7 +23,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" /> &nbsp;Currently building <strong>UtilityKit</strong> & <strong>ProjectR</strong> — tools that slap<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="22" /> &nbsp;Learning <strong>Bash, Python, Rust & Go</strong> — one panic at a time<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="22" /> &nbsp;Learning <strong>Bash, Python, HTML</strong> — one panic at a time<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="22" /> &nbsp;Open to collaborate on <strong>anything that makes me go "whoa"</strong><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" /> &nbsp;Looking for help with <strong>leveling up from script kiddie to wizard</strong><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="22" /> &nbsp;Ask me about <strong>terminal wizardry, Linux ricing, or AI prompts</strong><br>
@@ -34,12 +34,9 @@
 
 ### 🛠️ Tech Arsenal
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logo=gnubash&logoColor=white&labelColor=0d1117" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black&labelColor=0d1117" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" alt="Go" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JS" />
@@ -50,9 +47,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d1117" alt="GitLab" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=0d1117" alt="Vim" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" alt="Arch" />
 </p>
 
 ---
@@ -60,8 +54,8 @@
 ### 🎵 Currently Vibing To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/Thaton3gu7" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Thaton3gu7&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=39ff14&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jymiqdmefhfroadiyoofbqbr4e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jymiqdmefhfroadiyoofbqbr4e&cover_image=true&theme=novatorem&bar_color=39ff14&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&mode=dark">
   </a>
 </p>
 
@@ -69,29 +63,12 @@
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://x.com/Tthaton3gu7" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/thaton3gu7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@Thaton3gu7" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://pinterest.com/Thaton3gu7" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="mailto:socialzoneop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/Thaton3gu7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discordapp.com/users/Thaton3gu7" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thaton3gu7&theme=radical" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thaton3gu7&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thaton3gu7&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thaton3gu7&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thaton3gu7&theme=radical&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
@@ -99,16 +76,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Thaton3gu7&show_icons=true&theme=radical&title_color=39ff14&icon_color=00f3ff&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaton3gu7&layout=compact&theme=radical&title_color=39ff14&icon_color=00f3ff&hide_border=true&bg_color=0d1117&langs_count=10&border_radius=12" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thaton3gu7&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=Thaton3gu7&show_icons=true&theme=radical&title_color=39ff14&icon_color=00f3ff&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thaton3gu7&layout=compact&theme=radical&title_color=39ff14&icon_color=00f3ff&hide_border=true&bg_color=0d1117&langs_count=10&border_radius=12" alt="Top Languages" />
 </p>
 
 ---
@@ -122,6 +91,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Thaton3gu7/Thaton3gu7/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ---
 
 ### 📈 Contribution Graph
@@ -140,10 +110,10 @@
 
 ---
 
-### 😂 Random Dev Meme
+### 😂 Developer jokes
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Dev Meme" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Developer Joke" />
 </p>
 
 ---
