@@ -22,8 +22,8 @@
 ### 🚀 About Me
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" /> &nbsp;Currently building <strong>UtilityKit</strong> & <strong>ProjectR</strong> — tools that slap<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="22" /> &nbsp;Learning <strong>Bash, Python, HTML</strong> — one panic at a time<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" /> &nbsp;Currently building <strong>Nazo</strong> — an anime quiz app<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="22" /> &nbsp;Learning <strong>Kotlin, JavaScript</strong> — one panic at a time<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="22" /> &nbsp;Open to collaborate on <strong>anything that makes me go "whoa"</strong><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" /> &nbsp;Looking for help with <strong>leveling up from script kiddie to wizard</strong><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="22" /> &nbsp;Ask me about <strong>terminal wizardry, Linux ricing, or AI prompts</strong><br>
